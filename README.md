@@ -1,2 +1,2 @@
 # Hello_world2
-Testing
+Getting stated with Jenkins and Gerrit
